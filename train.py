@@ -3,7 +3,6 @@ import numpy as np
 import pandas as pd
 from pathlib import Path
 from datetime import datetime
-from scipy.misc import derivative
 from sklearn.model_selection import train_test_split
 from sklearn import metrics
 from math import modf
