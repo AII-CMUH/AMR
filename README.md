@@ -3,3 +3,6 @@ We proposed a matrix-assisted laser desorption/ionization-time-of-flight mass sp
 
 ## Cite this paper
 Yu J, Tien N, Liu YC, Cho DY, Chen JW, Tsai YT, Huang YC, Chao HJ, Chen CJ. Rapid Identification of Methicillin-Resistant Staphylococcus aureus Using MALDI-TOF MS and Machine Learning from over 20,000 Clinical Isolates. Microbiol Spectr. 2022 Apr 27;10(2):e0048322. doi: 10.1128/spectrum.00483-22. Epub 2022 Mar 16. PMID: 35293803; PMCID: PMC9045122.
+
+## Data availability
+The de-identified materials supporting the findings of this study are available from the corresponding author upon request. The MALDI–TOF MS data generated in this study have been deposited in the Zenodo database available at https://zenodo.org/record/5502292#.YUXjRWaA6dY.
